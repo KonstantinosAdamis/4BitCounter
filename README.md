@@ -1,5 +1,5 @@
 # 4BitCounter
-Design of a 4Bit Counter Using Arduino Uno R3
+Design of a 4-Bit Counter Using Arduino Uno R3
 
 It counts from 0 (0000) to 15 (1111) and then it resets. The most-right LED is the LSB and the most-left LED is the MSB.
 
